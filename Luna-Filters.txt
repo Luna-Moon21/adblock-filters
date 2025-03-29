@@ -14,3 +14,6 @@ www.20minutos.es##.category-tecnologia.home-tecnologia.page-home > .axds
 ! Cloudflare insights blocking
 ||cloudflareinsights.com^
 yts.mx##script[src*="cloudflareinsights.com/beacon.min.js"]
+
+! yts.mx: Block specific Cloudflare Rocket Loader script.
+yts.mx##script[src="https://yts.mx/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"]
