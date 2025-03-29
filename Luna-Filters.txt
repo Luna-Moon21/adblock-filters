@@ -3,6 +3,15 @@
 ! Version: 1.0
 ! Last updated: 2024-10-27
 
+! 29 Mar 2025 https://www.youtube.com
+youtube.com###contents.ytd-rich-grid-renderer > :not(ytd-rich-item-renderer, ytd-continuation-item-renderer)
+youtube.com##ytd-rich-item-renderer[is-in-first-column]:style(margin-left: calc(var(--ytd-rich-grid-item-margin)/2) !important)
+youtube.com##ytd-ghost-grid-renderer
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
+www.youtube.com###copyright
+www.youtube.com###guide-links-primary
+www.youtube.com###guide-links-secondary
+
 ! Skyline webcams filters
 www.skylinewebcams.com##.text-center.col-lg-10.col-md-9.col-xs-12
 www.skylinewebcams.com##.btn-warning.navbar-btn.btn-default.btn
