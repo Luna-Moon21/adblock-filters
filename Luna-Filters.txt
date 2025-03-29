@@ -3,7 +3,7 @@
 ! Version: 1.0
 ! Last updated: 2024-10-27
 
-! 29 Mar 2025 https://www.youtube.com
+! YOUTUBE
 youtube.com###contents.ytd-rich-grid-renderer > :not(ytd-rich-item-renderer, ytd-continuation-item-renderer)
 youtube.com##ytd-rich-item-renderer[is-in-first-column]:style(margin-left: calc(var(--ytd-rich-grid-item-margin)/2) !important)
 youtube.com##ytd-ghost-grid-renderer
@@ -12,26 +12,24 @@ www.youtube.com###copyright
 www.youtube.com###guide-links-primary
 www.youtube.com###guide-links-secondary
 
-! Skyline webcams filters
+! WEBCAMS
 www.skylinewebcams.com##.text-center.col-lg-10.col-md-9.col-xs-12
 www.skylinewebcams.com##.btn-warning.navbar-btn.btn-default.btn
 www.skylinewebcams.com###live > div > .container > div
 
-! 20minutos
+! 20MINUTOS
 www.20minutos.es##.category-tecnologia.home-tecnologia.page-home > .axds
 
-! Cloudflare insights blocking
-||cloudflareinsights.com^
-yts.mx##script[src*="cloudflareinsights.com/beacon.min.js"]
-
-! yts.mx: Block specific Cloudflare Rocket Loader script.
+! YIFY
 yts.mx##script[src="https://yts.mx/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"]
 yts.mx##script[src="https://yts.mx/assets/minified/modded1.js?yify=4"]
 lwmpocteuzldy.world##script[src="https://lwmpocteuzldy.world/script/ut.js?cb=1743280470771"]
 ##.jhjh.fsdfsdf.hqbdafa929d37fsm.eytry.hqbdafa929d37fxs.tr.bbj
+||cloudflareinsights.com^
+yts.mx##script[src*="cloudflareinsights.com/beacon.min.js"]
 
 
-! 18 Mar 2025 https://www.twitch.tv
+! TWITCH
 www.twitch.tv##.top-nav__prime.czRfnU.Layout-sc-1xcs6mc-0
 www.twitch.tv##div.czRfnU.Layout-sc-1xcs6mc-0:nth-of-type(5)
 www.twitch.tv##div.czRfnU.Layout-sc-1xcs6mc-0 > .Layout-sc-1xcs6mc-0 > .Layout-sc-1xcs6mc-0 > .kBtJDm.InjectLayout-sc-1i43xsx-0 > .GOdqv.ScCoreButton-sc-ocjdkq-0
