@@ -29,3 +29,21 @@ yts.mx##script[src="https://yts.mx/cdn-cgi/scripts/7d0fa10a/cloudflare-static/ro
 yts.mx##script[src="https://yts.mx/assets/minified/modded1.js?yify=4"]
 lwmpocteuzldy.world##script[src="https://lwmpocteuzldy.world/script/ut.js?cb=1743280470771"]
 ##.jhjh.fsdfsdf.hqbdafa929d37fsm.eytry.hqbdafa929d37fxs.tr.bbj
+
+
+! 18 Mar 2025 https://www.twitch.tv
+www.twitch.tv##.top-nav__prime.czRfnU.Layout-sc-1xcs6mc-0
+www.twitch.tv##div.czRfnU.Layout-sc-1xcs6mc-0:nth-of-type(5)
+www.twitch.tv##div.czRfnU.Layout-sc-1xcs6mc-0 > .Layout-sc-1xcs6mc-0 > .Layout-sc-1xcs6mc-0 > .kBtJDm.InjectLayout-sc-1i43xsx-0 > .GOdqv.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##.storiesLeftNavSection--csO9S.dcyYPL.Layout-sc-1xcs6mc-0
+www.twitch.tv##.side-nav__title.eCDqNH.Layout-sc-1xcs6mc-0
+www.twitch.tv##.chat-room__content.fhQiFC.Layout-sc-1xcs6mc-0 > div.Layout-sc-1xcs6mc-0 > .DGdsv.Layout-sc-1xcs6mc-0
+##.onsite-notification-toast.fXjHOA.Layout-sc-1xcs6mc-0
+||vod-secure.twitch.tv/_404/404_processing_320x180.png$image
+||vod-secure.twitch.tv/_404/404_processing_320x180.png$image
+www.twitch.tv###twilight-sticky-footer-root
+www.twitch.tv##.followed-side-nav-header--expanded.followed-side-nav-header.cXbKiY.Layout-sc-1xcs6mc-0 > .tw-interactable.etibmD.hGAIgs.ScInteractableDefault-sc-ofisyf-1.ScInteractableBase-sc-ofisyf-0
+www.twitch.tv##.collapse-toggle.eeRiXn.Layout-sc-1xcs6mc-0
+twitch.tv###channel-player-disclosures
+twitch.tv##div.Layout-sc-1xcs6mc-0.bHAUON
+twitch.tv##div.Layout-sc-1xcs6mc-0.htiGKh
