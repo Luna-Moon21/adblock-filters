@@ -7,3 +7,6 @@
 www.skylinewebcams.com##.text-center.col-lg-10.col-md-9.col-xs-12
 www.skylinewebcams.com##.btn-warning.navbar-btn.btn-default.btn
 www.skylinewebcams.com###live > div > .container > div
+
+! 20minutos
+www.20minutos.es##.category-tecnologia.home-tecnologia.page-home > .axds
