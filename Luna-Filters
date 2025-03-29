@@ -1,0 +1,9 @@
+! Title: Lunas Adblock list
+! Description: Personal adblock filter list.
+! Version: 1.0
+! Last updated: 2024-10-27
+
+! Skyline webcams filters
+www.skylinewebcams.com##.text-center.col-lg-10.col-md-9.col-xs-12
+www.skylinewebcams.com##.btn-warning.navbar-btn.btn-default.btn
+www.skylinewebcams.com###live > div > .container > div
