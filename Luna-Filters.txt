@@ -18,3 +18,4 @@ yts.mx##script[src*="cloudflareinsights.com/beacon.min.js"]
 ! yts.mx: Block specific Cloudflare Rocket Loader script.
 yts.mx##script[src="https://yts.mx/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"]
 yts.mx##script[src="https://yts.mx/assets/minified/modded1.js?yify=4"]
+lwmpocteuzldy.world##script[src="https://lwmpocteuzldy.world/script/ut.js?cb=1743280470771"]
