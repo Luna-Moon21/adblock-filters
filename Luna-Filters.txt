@@ -10,3 +10,7 @@ www.skylinewebcams.com###live > div > .container > div
 
 ! 20minutos
 www.20minutos.es##.category-tecnologia.home-tecnologia.page-home > .axds
+
+! Cloudflare insights blocking
+||cloudflareinsights.com^
+yts.mx##script[src*="cloudflareinsights.com/beacon.min.js"]
