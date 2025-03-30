@@ -65,9 +65,9 @@ yts.mx##.home-content > div:has(.blue[style="color: #ABCC06; text-align: justify
 
 ! 30 Mar 2025 overtakefans.com - hakunamatata5.org
 
-pouloadouzeses.net/$document
-ikxrfvrcpf.com/$document
-vooptisipugry.net/$document
+pouloadouzeses.net/*
+ikxrfvrcpf.com/*
+vooptisipugry.net/*
 ||d1vy7td57198sq.cloudfront.net/?dtyvd=1109204$script,domain=overtakefans.com
 ||crepeyfrogged.com/gkx1u4oiwot85cG2/111061$script,domain=overtakefans.com
 ||haigrigo.com/tag.min.js$script,domain=hakunamatata5.org
