@@ -84,3 +84,4 @@ overtakefans.com##discord_div_background
 ||stemoortoo.net^$xhr,domain=hakunamatata5.org
 hakunamatata5.org/replays2/etQzcpbOoCLmMPiahVWYHwufy.html$script,domain=overtakefans.com
 cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js$script
+hakunamatata5.org$script,domain=overtakefans.com
