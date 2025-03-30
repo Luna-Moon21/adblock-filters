@@ -73,3 +73,12 @@ yts.mx##.home-content > div:has(.blue[style="color: #ABCC06; text-align: justify
 ||inwjtgoaact.com^$xhr,domain=hakunamatata5.org
 ||haigrigo.com^$xhr,domain=hakunamatata5.org
 overtakefans.com##discord_div_background
+||d1vy7td57198sq.cloudfront.net^$script,domain=overtakefans.com
+||crepeyfrogged.com^$script,domain=overtakefans.com
+||d1vy7td57198sq.cloudfront.net^$script
+||haigrigo.com/tag.min.js$script,domain=hakunamatata5.org
+||vooptisipugry.net^$xhr,domain=hakunamatata5.org
+||inwjtgoaact.com^$xhr,domain=hakunamatata5.org
+||haigrigo.com^$xhr,domain=hakunamatata5.org
+||vooptisipugry.net^$xhr
+||stemoortoo.net^$xhr,domain=hakunamatata5.org
