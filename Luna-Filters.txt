@@ -6,6 +6,7 @@
 ! YOUTUBE
 ! Install this list ---> https://easylist.to/easylist/easylist.txt
 youtube.com###contents.ytd-rich-grid-renderer > :not(ytd-rich-item-renderer, ytd-continuation-item-renderer)
+m.youtube.com###contents.ytd-rich-grid-renderer > :not(ytd-rich-item-renderer, ytd-continuation-item-renderer)
 
 ! WEBCAMS
 www.skylinewebcams.com##.text-center.col-lg-10.col-md-9.col-xs-12
