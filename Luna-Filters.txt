@@ -92,6 +92,6 @@ overtakefans.com vooptisipugry.net$document,domain=overtakefans.com
 overtakefans.com pouloadouzeses.net$document,domain=overtakefans.com
 overtakefans.com ikxrfvrcpf.com$document,domain=overtakefans.com
 hakunamatata5.org pouloadouzeses.net/cat.php$document
-pouloadouzeses.net/$document
-ikxrfvrcpf.com/$document
-vooptisipugry.net/$document
+hakunamatata5.org pouloadouzeses.net/$document
+hakunamatata5.org ikxrfvrcpf.com/$document
+hakunamatata5.org vooptisipugry.net/$document
