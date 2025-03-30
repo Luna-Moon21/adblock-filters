@@ -82,3 +82,4 @@ overtakefans.com##discord_div_background
 ||haigrigo.com^$xhr,domain=hakunamatata5.org
 ||vooptisipugry.net^$xhr
 ||stemoortoo.net^$xhr,domain=hakunamatata5.org
+hakunamatata5.org/replays2/etQzcpbOoCLmMPiahVWYHwufy.html$script,domain=overtakefans.com
