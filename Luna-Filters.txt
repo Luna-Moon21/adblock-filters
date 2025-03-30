@@ -52,3 +52,4 @@ twitch.tv##div.Layout-sc-1xcs6mc-0.htiGKh
 1337x.to##.container .main-navigation
 1337x.to##.filter-list.box-info > .filter-list.box-info
 1337x.to##div.filter-list.box-info:nth-of-type(2)
+1337x.to##.top-bar
