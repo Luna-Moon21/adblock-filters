@@ -20,15 +20,6 @@ www.skylinewebcams.com###live > div > .container > div
 ! 20MINUTOS
 www.20minutos.es##.category-tecnologia.home-tecnologia.page-home > .axds
 
-! YIFY
-yts.mx##script[src="https://yts.mx/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"]
-yts.mx##script[src="https://yts.mx/assets/minified/modded1.js?yify=4"]
-lwmpocteuzldy.world##script[src="https://lwmpocteuzldy.world/script/ut.js?cb=1743280470771"]
-##.jhjh.fsdfsdf.hqbdafa929d37fsm.eytry.hqbdafa929d37fxs.tr.bbj
-||cloudflareinsights.com^
-yts.mx##script[src*="cloudflareinsights.com/beacon.min.js"]
-
-
 ! TWITCH
 www.twitch.tv##.top-nav__prime.czRfnU.Layout-sc-1xcs6mc-0
 www.twitch.tv##div.czRfnU.Layout-sc-1xcs6mc-0:nth-of-type(5)
