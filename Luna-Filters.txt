@@ -62,3 +62,14 @@ yts.mx###watchnow_button
 yts.mx##div.row:nth-of-type(5)
 yts.mx###comments-box
 yts.mx##.home-content > div:has(.blue[style="color: #ABCC06; text-align: justify;"] ~ a img[src="/images/download.png"])
+
+! 30 Mar 2025 overtakefans.com - hakunamatata5.org
+||d1vy7td57198sq.cloudfront.net/?dtyvd=1109204$script,domain=overtakefans.com
+||crepeyfrogged.com/gkx1u4oiwot85cG2/111061$script,domain=overtakefans.com
+||haigrigo.com/tag.min.js$script,domain=hakunamatata5.org
+||vooptisipugry.net/wrr?z=6480015&p_rid=17c83f84-b0f9-455a-b661-5b312d5d3e93&rb=uaMjfo5Oi0VN9aeCyAj1JFFYKXvxdFJRKe_oBt0dGP8onZaNbP1IeA2qLEY-QtXptyk7V3aQFULCWIU-V92BH4di3Bz8qXYwQ41lhA3OczuK4RFuKaSQisGbYFXgCMHvmEyPgp7VkFVuzH0D-TajPXx86OqH02iZossGj8RaVKUbQYnKZZ60I-roBX0gST_tWO-UtZ45ieDIz6_e3i7yMsNry8tBd6V28dsjil2gvvPp8DO7qcS_yd5XzrLFbKXoTw37VtZR2EBxmsEx4H-a7yVKnAG-IPdboCUL_cQCVJvK9Uu5pKxYy4_Lv_yN-aatOT9HCXTG9oIDZoVe&dmn=&userId=00819cc9816c4b07ee41f5469b40a336$xhr,domain=hakunamatata5.org
+||stemoortoo.net/?cf=0&nw=1&jsp=1&wgl=ANGLE+%28AMD%2C+AMD+Radeon+RX+7900+XTX+%280x0000744C%29+Direct3D11+vs_5_0+ps_5_0%2C+D3D11%29&ng=1&tt=3&nb=1&sh=1440&navlng=en-GB&wfc=1&ix=1&sw=2560&wiw=1194&tb=false&wx=0&wih=600&btz=Europe%2FLondon&pl=https%3A%2F%2Fhakunamatata5.org%2Freplays2%2FetQzcpbOoCLmMPiahVWYHwufy.html&fs=0&pnrc=0&np=1&wh=1392&sah=1392&js_build=iclick-v1.1115.1&id=6480015&wasm=-1&ww=2560&rb=uaMjfo5Oi0VN9aeCyAj1JFFYKXvxdFJRKe_oBt0dGP8onZaNbP1IeA2qLEY-QtXptyk7V3aQFULCWIU-V92BH4di3Bz8qXYwQ41lhA3OczuK4RFuKaSQisGbYFXgCMHvmEyPgp7VkFVuzH0D-TajPXx86OqH02iZossGj8RaVKUbQYnKZZ60I-roBX0gST_tWO-UtZ45ieDIz6_e3i7yMsNry8tBd6V28dsjil2gvvPp8DO7qcS_yd5XzrLFbKXoTw37VtZR2EBxmsEx4H-a7yVKnAG-IPdboCUL_cQCVJvK9Uu5pKxYy4_Lv_yN-aatOT9HCXTG9oIDZoVe&drf=https%3A%2F%2Fovertakefans.com%2F&pt=0&wy=0&js_build=iclick-v1.1115.1&pnt=0&bto=-60&vsbl=true&cw=1194&bs=10feb590-c8cb-43c7-879e-a2db1723568b&userId=00819cc9816c4b07ee41f5469b40a336&os=windows&os_version=19.0.0&is_mobile=false&browser_version=134.0.6998.182&m=link$xhr,domain=hakunamatata5.org
+||vooptisipugry.net^$xhr,domain=hakunamatata5.org
+||inwjtgoaact.com^$xhr,domain=hakunamatata5.org
+||haigrigo.com^$xhr,domain=hakunamatata5.org
+overtakefans.com##discord_div_background
