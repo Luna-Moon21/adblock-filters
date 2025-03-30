@@ -44,3 +44,23 @@ twitch.tv##div.Layout-sc-1xcs6mc-0.htiGKh
 1337x.to##.filter-list.box-info > .filter-list.box-info
 1337x.to##div.filter-list.box-info:nth-of-type(2)
 1337x.to##.top-bar
+
+! yts.mx
+||static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015$script
+||qchmlmtkpbswf.buzz/script/ut.js$script,domain=yts.mx
+||youradexchange.com^$xhr,domain=yts.mx
+||platform.twitter.com^$script,domain=yts.mx
+||vywvncjascsrw.world^$xhr,domain=yts.mx
+||yts.mx/images/twitter.svg$image,1p
+||yts.mx/images/telegram.svg$image,1p
+||yts.mx/images/mastodon.svg$image,1p
+yts.mx##div.home-content.container:nth-of-type(3) > div:nth-of-type(2)
+yts.mx##h2 > [href="https://yts.mx/rss-guide"]
+yts.mx###iwkjdooqw
+yts.mx##footer
+yts.mx##.nav-link-guest.nav-links
+yts.mx##[href="https://yts.mx/blog/yts-mx-is-the-only-new-official-domain-for-yify-movies"]
+yts.mx###watchnow_button
+yts.mx##div.row:nth-of-type(5)
+yts.mx###comments-box
+yts.mx##.home-content > div:has(.blue[style="color: #ABCC06; text-align: justify;"] ~ a img[src="/images/download.png"])
