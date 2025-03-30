@@ -64,7 +64,8 @@ yts.mx###comments-box
 yts.mx##.home-content > div:has(.blue[style="color: #ABCC06; text-align: justify;"] ~ a img[src="/images/download.png"])
 
 ! 30 Mar 2025 overtakefans.com - hakunamatata5.org
-hakunamatata5.org pouloadouzeses.net/cat.php$document
+
+hakunamatata5.org pouloadouzeses.net/$document
 ||d1vy7td57198sq.cloudfront.net/?dtyvd=1109204$script,domain=overtakefans.com
 ||crepeyfrogged.com/gkx1u4oiwot85cG2/111061$script,domain=overtakefans.com
 ||haigrigo.com/tag.min.js$script,domain=hakunamatata5.org
@@ -93,6 +94,6 @@ overtakefans.com vooptisipugry.net$document,domain=overtakefans.com
 overtakefans.com pouloadouzeses.net$document,domain=overtakefans.com
 overtakefans.com ikxrfvrcpf.com$document,domain=overtakefans.com
 
-hakunamatata5.org pouloadouzeses.net/$document
+
 hakunamatata5.org ikxrfvrcpf.com/$document
 hakunamatata5.org vooptisipugry.net/$document
