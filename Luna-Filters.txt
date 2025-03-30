@@ -4,6 +4,7 @@
 ! Last updated: 2024-10-27
 
 ! YOUTUBE
+! Install this list ---> https://easylist.to/easylist/easylist.txt
 youtube.com###contents.ytd-rich-grid-renderer > :not(ytd-rich-item-renderer, ytd-continuation-item-renderer)
 
 ! WEBCAMS
