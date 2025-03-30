@@ -1,7 +1,7 @@
 ! Title: Lunas Adblock list
 ! Description: Personal adblock filter list.
 ! Version: 1.0
-! Last updated: 2024-10-27
+! Last updated: 30-03-2025
 
 ! YOUTUBE
 ! Install this list ---> https://easylist.to/easylist/easylist.txt
